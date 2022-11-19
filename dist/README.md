@@ -35,7 +35,7 @@ This application is covered by the MIT license.
 ## Questions
 ✋ troubleshoot<br />
 <br />
-:octocat: Find me on GitHub: [emanuelm01](https://github.com/emanuelm1)<br />
+:octocat: Find me on GitHub: [emanuelm1](https://github.com/emanuelm1)<br />
 <br />
 ✉️ Email me with any questions: test@testmail.com<br /><br />
     
